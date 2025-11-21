@@ -140,8 +140,8 @@ r????WLANG_i
 0
 33
 WString
-32
-"lib;\rdos-kernel;$(%watcom)/rh"
+54
+"lib;../rdos-user/kernel;../rdos-kernel;$(%watcom)/rh"
 34
 MVState
 35

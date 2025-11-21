@@ -140,8 +140,8 @@ r????WLANG_i
 0
 33
 WString
-47
-"lib;fslib;parttool;\rdos-kernel;$(%watcom)/rh"
+69
+"lib;fslib;parttool;../rdos-user/kernel;../rdos-kernel;$(%watcom)/rh"
 34
 MVState
 35

@@ -104,8 +104,8 @@ r????WLANG_i
 0
 25
 WString
-28
-"\rdos-kernel;$(%watcom)/rh"
+50
+"../rdos-user/kernel;../rdos-kernel;$(%watcom)/rh"
 26
 WVList
 0

@@ -68,8 +68,8 @@ r????WLANG_i
 0
 17
 WString
-38
-"lib;fslib;\rdos-kernel;$(%watcom)/rh"
+60
+"lib;fslib;../rdos-user/kernel;../rdos-kernel;$(%watcom)/rh"
 18
 MVState
 19
