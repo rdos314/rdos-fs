@@ -1,0 +1,15 @@
+# Ignore object files and dependent files
+*.obj
+*.rdv
+*.bin
+*.exe
+*.lib
+*.res
+*.mk
+*.lb1
+*.mk1
+*.lk1
+*.lst
+*.map
+*.sym
+*.err
